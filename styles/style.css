@@ -135,7 +135,7 @@ body {
     margin-bottom: 20px;
 }
 
-@keyframes {
+@keyframes backgrounds {
     0% {background-image: url("../images/closet_2.jpg");}
     15% {background-image: url("../images/dormitorio.jpg");}
     30% {background-image: url("../images/bancada.jpg");}
