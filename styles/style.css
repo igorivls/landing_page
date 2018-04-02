@@ -40,6 +40,13 @@ body {
     text-shadow: 1px 1px 5px black;
 }
 
+.parallax {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 #nav {
     padding: 40px 36px;
 }
